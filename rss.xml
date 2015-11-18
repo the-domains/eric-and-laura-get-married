@@ -2,14 +2,14 @@
     <channel>
         <title><![CDATA[Eric & Laura Get Married]]></title>
         <description><![CDATA[Eric & Laura Get Married]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/eric-and-laura-get-married/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 Nov 2015 19:07:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 18 Nov 2015 19:08:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/eric-and-laura-get-married/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Eric & Laura Get Married]]></title>
             <description><![CDATA[<article><h1>Eric & Laura Get Married</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e12bbda-5ae8-4dad-b498-032195696061.jpg"></article>]]></description>
-            <link>undefinederic-and-laura-get-married/index.html</link>
+            <link>https://thegrid.ai/eric-and-laura-get-married/eric-and-laura-get-married/index.html</link>
             <guid isPermaLink="false">e88603a3-2c96-444d-9337-d22760f8c610</guid>
             <pubDate>Wed, 18 Nov 2015 19:06:23 GMT</pubDate>
         </item>
