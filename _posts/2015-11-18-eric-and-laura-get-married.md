@@ -6,20 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-18T19:06:23.039Z'
-dateModified: '2015-11-18T19:02:40.539Z'
-title: 'Eric & Laura Get Married'
+datePublished: '2015-11-18T19:12:08.286Z'
+dateModified: '2015-11-18T19:11:57.491Z'
+title: Who are you people?
+sourcePath: _posts/2015-11-18-eric-and-laura-get-married.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-18-eric-and-laura-get-married.md
-published: true
 url: eric-and-laura-get-married/index.html
 _type: Article
 
 ---
-# **Eric & Laura Get Married**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e12bbda-5ae8-4dad-b498-032195696061.jpg)
+# **Who are you people?**
+null
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f08790f0-e864-48e6-bd66-6bd89705192b.jpg)
+
+Eric and Laura met under the most romantic of scenarios.
