@@ -1,0 +1,23 @@
+name: 'Eric & Laura Get Married'
+favicon: null
+layout_spectrum: 0.20663236710242927
+typography_spectrum: 0.9787876387126744
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8363149857614189
+  lightness: 0.3944311672821641
+  saturation: 0.16152858827263117
+  rhythmicContrast: 0.530163599178195
+purpose: []
