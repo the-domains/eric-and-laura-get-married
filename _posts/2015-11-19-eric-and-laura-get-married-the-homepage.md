@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-19T01:10:54.245Z'
-dateModified: '2015-11-19T01:10:49.917Z'
+datePublished: '2015-11-19T01:42:48.339Z'
+dateModified: '2015-11-19T01:42:43.836Z'
 title: 'Eric & Laura Get Married. The Homepage.'
 sourcePath: _posts/2015-11-19-eric-and-laura-get-married-the-homepage.md
 published: true
@@ -17,8 +18,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: eric-and-laura-get-married-the-homepage/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6bc141c6-e007-47d4-9097-f6a1ebe9219e.jpg)
