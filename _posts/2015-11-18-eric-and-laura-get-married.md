@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-11-19T00:55:58.325Z'
-dateModified: '2015-11-19T00:55:32.918Z'
+datePublished: '2015-11-19T00:56:06.077Z'
+dateModified: '2015-11-19T00:56:01.120Z'
 title: Who are you people?
 sourcePath: _posts/2015-11-18-eric-and-laura-get-married.md
 published: true
