@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Venue info
-datePublished: '2015-11-19T01:07:03.383Z'
-dateModified: '2015-11-19T01:07:00.736Z'
+datePublished: '2015-11-19T01:19:21.835Z'
+dateModified: '2015-11-19T01:16:28.573Z'
 title: Where the hell are you getting married?
 sourcePath: _posts/2015-11-19-where-the-hell-are-you-getting-married.md
 published: true
@@ -21,4 +21,5 @@ url: where-the-hell-are-you-getting-married/index.html
 _type: WebPage
 
 ---
-**Where the hell is this place?**
+Prallsville Mill, Stockton, NJ
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/25c7291b-ddef-4830-a024-52b7bc81bbbf.jpg)
