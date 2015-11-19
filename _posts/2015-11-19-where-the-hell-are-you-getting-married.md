@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Venue info
-datePublished: '2015-11-19T01:19:21.835Z'
-dateModified: '2015-11-19T01:16:28.573Z'
+datePublished: '2015-11-19T01:43:19.902Z'
+dateModified: '2015-11-19T01:43:13.558Z'
 title: Where the hell are you getting married?
 sourcePath: _posts/2015-11-19-where-the-hell-are-you-getting-married.md
 published: true
