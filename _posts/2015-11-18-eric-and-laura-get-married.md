@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-18T19:12:08.286Z'
-dateModified: '2015-11-18T19:11:57.491Z'
+datePublished: '2015-11-19T00:55:58.325Z'
+dateModified: '2015-11-19T00:55:32.918Z'
 title: Who are you people?
 sourcePath: _posts/2015-11-18-eric-and-laura-get-married.md
 published: true
@@ -22,7 +22,11 @@ _type: Article
 
 ---
 # **Who are you people?**
-null
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f08790f0-e864-48e6-bd66-6bd89705192b.jpg)
 
-Eric and Laura met under the most romantic of scenarios.
+The future space heroes the world deserves. _That's who_.
+
+Eric and Laura met under the most romantic of scenarios. Eric had recently returned from an overseas tour of the far East, bringing with him the ancient  knowledge of 
+
+Nah. Actually they met on Tinder. Yeah. Tinder.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/60fffa85-fda3-4b61-84ea-029eab771635.jpg)
