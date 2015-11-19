@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Eric & Laura Get Married]]></title>
         <description><![CDATA[Eric & Laura Get Married]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/eric-and-laura-get-married/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 Nov 2015 01:11:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 19 Nov 2015 01:12:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/eric-and-laura-get-married/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Who are you people?]]></title>
+            <description><![CDATA[<article><h1>Who are you people?</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f08790f0-e864-48e6-bd66-6bd89705192b.jpg"></article>]]></description>
+            <link>https://thegrid.ai/eric-and-laura-get-married/eric-and-laura-get-married/index.html</link>
+            <guid isPermaLink="false">e88603a3-2c96-444d-9337-d22760f8c610</guid>
+            <pubDate>Thu, 19 Nov 2015 01:11:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Eric & Laura Get Married. The Homepage.]]></title>
             <description><![CDATA[<article><h1>Eric & Laura Get Married. The Homepage.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6bc141c6-e007-47d4-9097-f6a1ebe9219e.jpg"></article>]]></description>
-            <link>undefinederic-and-laura-get-married-the-homepage/index.html</link>
+            <link>https://thegrid.ai/eric-and-laura-get-married/eric-and-laura-get-married-the-homepage/index.html</link>
             <guid isPermaLink="false">f95cf8a0-7c32-45b5-bcdc-81d2878f2ff9</guid>
             <pubDate>Thu, 19 Nov 2015 01:10:54 GMT</pubDate>
         </item>
