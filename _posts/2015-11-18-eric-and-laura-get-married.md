@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-11-19T01:11:45.986Z'
-dateModified: '2015-11-19T01:11:36.955Z'
+description: 'About us!'
+datePublished: '2015-11-19T01:13:37.470Z'
+dateModified: '2015-11-19T01:13:30.262Z'
 title: Who are you people?
 sourcePath: _posts/2015-11-18-eric-and-laura-get-married.md
 published: true
