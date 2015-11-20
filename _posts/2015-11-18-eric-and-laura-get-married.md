@@ -1,16 +1,17 @@
 ---
 inFeed: false
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: 'About us!'
-datePublished: '2015-11-19T01:43:35.976Z'
-dateModified: '2015-11-19T01:43:33.272Z'
+datePublished: '2015-11-20T17:54:00.464Z'
+dateModified: '2015-11-20T17:53:22.918Z'
 title: Who are you people?
 sourcePath: _posts/2015-11-18-eric-and-laura-get-married.md
 published: true
+author: []
 authors: []
 publisher:
   name: null
@@ -18,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: eric-and-laura-get-married/index.html
-_type: WebPage
+_type: Blurb
 
 ---
 # **Who are you people?**
